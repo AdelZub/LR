@@ -1,12 +1,12 @@
-import java.awt.*;
+package test1.test1; 
 
-import java.applet.*;
-
-public class HelloWorld! extends Applet {
-
-public void paint(Graphics g) {
-
-g.drawString("Hello World!", 20, 20);
-
+/** 
+* Hello world! 
+* 
+*/ 
+public class App 
+{ 
+public static void main(String[] args) { 
+System.out.println("Grigoreva, Zubairova"); 
 } 
 }
